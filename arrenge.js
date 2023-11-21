@@ -39,6 +39,6 @@
   });
   const miniAccordion = new Accordion({
     hookName: '#js-accordion-mini',
-    tagName: 'dt',
+    tagName: 'dl',
   });
 })();
